@@ -1,0 +1,843 @@
+Renato Vimieiro
+Endereço para acessar este CV: http://lattes.cnpq.br/5736183954752317
+ID Lattes: 5736183954752317
+Última atualização do currículo em 28/04/2023
+
+Renato Vimieiro é doutor em Ciência da Computação pela University of Newcastle (Austrália), mestre também em Computação pela Universidade Federal de Minas Gerais (UFMG) e graduado na mesma área pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Atualmente é professor do Departamento de Ciência da Computação (DCC) da Universidade Federal de Minas Gerais (UFMG). Foi também professor do Centro de Informática da UFPE (CIn/UFPE), e pesquisador de pós-doutorado no Priority Research Centre of Bioinformatics, Biomarker Discovery & Information-based Medicine (CIBM), organismo afiliado ao Hunter Medical Research Institute (HMRI), à University of Newcastle e ao Australian Research Council Centre of Excellence in Bioinformatics (com sede na University of Queensland). Renato tem ampla experiência como cientista de dados, tendo trabalhado com o desenvolvimento e aplicações técnicas de mineração de dados e aprendizado de máquina em problemas de bioinformática, ciências sociais e engenharia. Particularmente, é especialista em algoritmos de mineração de padrões frequentes, agrupamento e classificação. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Renato VimieiroDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+VIMIEIRO, R.;VIMIEIRO, RENATO;Vimieiro, Renato
+Lattes iD
+http://lattes.cnpq.br/5736183954752317
+Orcid iD
+? https://orcid.org/0000-0002-7911-2456
+
+Endereço
+Endereço Profissional
+Universidade Federal de Minas Gerais, Instituto de Ciências Exatas, Departamento de Ciência da Computação.
+Universidade Federal de Minas Gerais
+Pampulha
+31270901 - Belo Horizonte, MG - Brasil
+Telefone: (31) 34095860
+
+
+Formação acadêmica/titulação
+2009 - 2012
+Doutorado em Ciência da Computação.
+The University of Newcastle Australia, NEWCASTLE, Austrália.
+Título: Mining disjunctive patterns in biomedical data sets, Ano de obtenção: 2012.
+Orientador: Pablo Alberto Moscato.
+Coorientador: Regina Esther Berretta.
+Bolsista do(a): University of Newcastle, UON, Austrália.
+Palavras-chave: Mineração de dados; Bioinformática.
+Grande área: Ciências Exatas e da Terra
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Bioinformática.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Análise Formal de Conceitos.
+2005 - 2007
+Mestrado em Ciências da Computação (Conceito CAPES 7).
+Universidade Federal de Minas Gerais, UFMG, Brasil.
+Título: Um estudo de algoritmos para a extração de regras baseados em Análise Formal de Conceitos , Ano de Obtenção: 2007.
+Orientador: Newton José Vieira.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+Palavras-chave: Inteligência Artificial; Extração de Regras; Análise Formal de Conceitos.
+Grande área: Ciências Exatas e da Terra
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Inteligência Artificial.
+2001 - 2004
+Graduação em Ciência da Computação.
+Pontifícia Universidade Católica de Minas Gerais, PUC Minas, Brasil.
+Título: Extração de Conhecimento de Redes Neurais Artificiais Através de Análise Formal de Conceitos.
+Orientador: Luis Enrique Zárate.
+
+
+Pós-doutorado
+2012 - 2014
+Pós-Doutorado.
+The University of Newcastle Australia, NEWCASTLE, Austrália.
+Bolsista do(a): National Health and Medical Research Council, NHMRC, Austrália.
+Grande área: Ciências Exatas e da Terra
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Mineração de Dados.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+
+
+Formação Complementar
+2011 - 2011
+Escola de Verão em Bioinformática Estrutural. (Carga horária: 80h).
+Universidade Federal de Minas Gerais, UFMG, Brasil.
+2011 - 2011
+First Course on GPU Computing. (Carga horária: 20h).
+The University of Newcastle Australia, NEWCASTLE, Austrália.
+2006 - 2006
+ICCL Summer School 2006: Knowledge Structures. (Carga horária: 50h).
+International Centre for Computational Logic - TU Dresden, ICCL-TU DRESDEN, Alemanha.
+
+
+Atuação Profissional
+
+Universidade Federal de Minas Gerais, UFMG, Brasil.
+Vínculo institucional
+
+2019 - Atual
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Adjunto, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2005 - 2007
+Vínculo: Bolsista, Enquadramento Funcional: Estudante de Mestrado, Carga horária: 40, Regime: Dedicação exclusiva.
+
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2014 - 2019
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Adjunto, Regime: Dedicação exclusiva.
+
+Atividades
+
+09/2014 - Atual
+Conselhos, Comissões e Consultoria, Centro de Informática.
+
+Cargo ou função
+Membro do Colegiado da Pós-Graduação em Ciência da Computação da UFPE.
+02/2015 - 01/2019
+Ensino, Sistemas de Informação, Nível: Graduação
+
+Disciplinas ministradas
+IF1015 - Introdução a Ciência dos Dados
+IF968 - Programação 1
+IF969 - Algoritmos e Estruturas de Dados
+09/2014 - 01/2019
+Pesquisa e desenvolvimento, Centro de Informática.
+
+Linhas de pesquisa
+Mineração de Dados
+Aprendizado de Máquina
+Bioinformática
+Análise Formal de Conceitos
+10/2015 - 11/2017
+Direção e administração, Centro de Informática.
+
+Cargo ou função
+Membro do Colegiado do Curso de Graduação em Ciência da Computação.
+03/2016 - 12/2016
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+IF672 - Algoritmos e Estruturas de Dados
+09/2014 - 12/2015
+Ensino, Engenharias, Nível: Graduação
+
+Disciplinas ministradas
+IF215 Cálculo Numérico
+
+Centre de Recherche Inria Nancy Grand Est, INRIA-NANCY, França.
+Vínculo institucional
+
+2015 - 2015
+Vínculo: Professor Visitante, Enquadramento Funcional: Professor Visitante
+
+
+The University of Newcastle Australia, NEWCASTLE, Austrália.
+Vínculo institucional
+
+2012 - 2014
+Vínculo: , Enquadramento Funcional: Pesquisador pós-doutorado, Carga horária: 40
+Outras informações
+Pesquisador pós-doutor vinculado ao Priority Research Centre of Bioinformatics, Biomarker Discovery and Information-based Medicine (http://www.newcastle.edu.au/research-centre/cibm) e ao Hunter Medical Research Institute (http://www.hmri.com.au/).
+
+Vínculo institucional
+
+2013 - 2013
+Vínculo: Celetista, Enquadramento Funcional: Casual academic, Carga horária: 12
+Outras informações
+Lecionou aulas práticas de laboratório das disciplinas 'Introduction to Software Engineering 1' and 'Introduction to Software Engineering 2' relacionadas aos cursos de Ciência da Computação, Engenharia de Software e Tecnologia da Informação.
+
+Vínculo institucional
+
+2009 - 2012
+Vínculo: Bolsista, Enquadramento Funcional: Estudante de Doutorado, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Atividades
+
+03/2009 - 05/2014
+Pesquisa e desenvolvimento, Centre of Bioinformatics, Biomarker Discovery & Information-based Medicine.
+
+Linhas de pesquisa
+Mineração de Dados
+Bioinformática
+02/2013 - 12/2013
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Computer Science Work Integrated Learning
+Introduction to Software Engineering 1 (Introduction to Programming in Java)
+Introduction to Software Engineering 2 (Algorithms and Data Structures in C++)
+
+Australian Research Council Centre of Excellence in Bioinformatics, ARC ACB, Austrália.
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Bolsista, Enquadramento Funcional: Estudante de doutorado, Carga horária: 40, Regime: Dedicação exclusiva.
+Outras informações
+Pesquisador vinculado aos projetos: (1) "Differential expression of genes towards pathway discovery" coordenado pelos professores Prof. Geoff McLachlan (University of Queensland), A/Prof. Regina Berretta e Prof. Pablo Moscato (University of Newcastle), e Prof. Phoebe Chen (La Trobe University); (2) "Algorithms for graphs and networks" coordenado pelo Prof. Pablo Moscato (University of Newcastle). Mais informações sobre os projetos em http://bioinformatics.org.au/files/documents/ACB-annual-report-2010.pdf e http://bioinformatics.org.au.
+
+
+Centro Universitário de Belo Horizonte, UniBH, Brasil.
+Vínculo institucional
+
+2008 - 2009
+Vínculo: Celetista, Enquadramento Funcional: Professor assistente A, Carga horária: 20
+
+Vínculo institucional
+
+2008 - 2008
+Vínculo: Celetista, Enquadramento Funcional: Professor assistente A, Carga horária: 30
+
+Vínculo institucional
+
+2007 - 2007
+Vínculo: Celetista, Enquadramento Funcional: Professor assistente A, Carga horária: 16
+
+Atividades
+
+02/2008 - 02/2009
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Teoria da Computação e Linguagens Formais
+Teoria dos Grafos
+02/2008 - 02/2009
+Ensino, Gestão da Tecnologia da Informação, Nível: Graduação
+
+Disciplinas ministradas
+Algoritmos e estruturas de dados 2
+08/2007 - 02/2009
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Compiladores
+Matemática discreta
+08/2007 - 02/2009
+Ensino, Gestão da Tecnologia da Informação, Nível: Graduação
+
+Disciplinas ministradas
+Algoritmos e estruturas de dados 1
+
+Pontifícia Universidade Católica de Minas Gerais, PUC Minas, Brasil.
+Vínculo institucional
+
+2007 - 2007
+Vínculo: Celetista, Enquadramento Funcional: Professor Auxiliar, Carga horária: 10
+
+Vínculo institucional
+
+2003 - 2004
+Vínculo: Bolsista iniciação científica, Enquadramento Funcional: Pesquisador, Carga horária: 20, Regime: Dedicação exclusiva.
+
+Atividades
+
+02/2007 - 07/2007
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Linguagens de Programação
+Matemática Computacional
+
+
+Linhas de pesquisa
+1.
+Mineração de Dados
+2.
+Bioinformática
+3.
+Mineração de Dados
+4.
+Aprendizado de Máquina
+5.
+Bioinformática
+6.
+Análise Formal de Conceitos
+
+
+Projetos de pesquisa
+2020 - Atual
+Programa de Capacidades Analíticas do Ministério Público do Estado de Minas Gerais - MPMG
+Descrição: Consultoria técnica especializada para prestação de serviços de pesquisa e desenvolvimento na área da Inteligência Artificial Aplicada e soluções de Big Data, vinculada ao escopo do Programa de Capacidades Analíticas do MPMG, incluindo transferência de conhecimento..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: Renato Vimieiro - Integrante / MEIRA JR, WAGNER - Coordenador / Loïc Cerf - Integrante.
+2019 - 2022
+Investigação do uso de computação evolucionária para mineração de padrões discriminativos em bases de dados de alta dimensionalidade
+Descrição: CNPq. Universal. O objetivo principal deste projeto é investigar e desenvolver algoritmos baseados em computação evolucionária para mineração de padrões discriminativos em bases de dados de alta dimensionalidade. O uso de computação evolucionária para mineração de regras de classificação é algo bastante estudado na literatura. Contudo, existem poucas abordagens evolucionárias para mineração de padrões discriminativos, sendo o número de abordagens capazes de lidar com alta dimensionalidade ainda menor. Esse fato contraria alguns autores que sugerem a possibilidade de aplicar os algoritmos existentes em dados de biomédicos. Entendendo que a aplicação em bioinformática é de importância tanto social quanto científica, o objetivo central será desenvolver métodos que permitam tal utilização..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (3) .
+
+Integrantes: Renato Vimieiro - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+Número de produções C, T & A: 2
+2016 - 2019
+On the development of a new method for analyzing multi-source biomedical data using multi-view clustering and pattern mining
+Descrição: The ultimate goal of this project is to investigate and develop a new methodology for the analysis of multi-source biomedical data by the combination of multi-view clustering and pattern mining techniques..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (2) .
+
+Integrantes: Renato Vimieiro - Coordenador / Francisco de Assis Tenorio de Carvalho - Integrante / Sergio Ricardo de Melo Queiroz - Integrante / Amedeo Napoli - Integrante / Teresa Bernarda Ludermir - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+Número de produções C, T & A: 12
+2014 - 2019
+Mineração de padrões discriminativos em grandes volumes de dados biomédicos
+Descrição: O projeto de pesquisa proposto nesse documento discute novas abordagens para o descobrimento de padrões discriminativos em grandes volumes de dados biomédicos. Padrões discriminativos são conjuntos de (ou expressões lógicas envolvendo) variáveis em uma base de dados que são muito relacionados (frequentes) em uma classe e pouco relacionados (infrequente) nas demais. Nosso interesse nesse projeto é investigar novas abordagens que possibilitem a identificação de padrões relacionados a doenças. Nossa proposta é desenvolver métodos com o intuito específico de minerar padrões discriminativos em conjuntos de dados de alta dimensionalidade, usando para isso técnicas evolutivas. Propomos ainda a investigação da paralelização desses novos métodos, sobretudo com o uso de novas arquiteturas computacionais como GPUs e MapReduce..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) / Mestrado profissional: (1) / Doutorado: (1) .
+
+Integrantes: Renato Vimieiro - Coordenador / Carlos Riveros - Integrante / Teresa Bernarda Ludermir - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+Número de produções C, T & A: 11
+2014 - 2016
+Formal Concept Analysis as a Support for Knowledge Discovery
+Descrição: In this project, we are interested in the use of Formal Concept Analysis (FCA) for Knowledge Discovery in Databases (KDD). Knowledge Discovery (KD) is a process aimed at extracting from large databases units that can be interpreted and reused by human and software agents. From an operational point of view, this process is based on three main steps: (i) selection and preparation of the data, (ii) data mining, (iii) interpretation (and possibly formalization) of the extracted units. Data mining methods can be either symbolic or numerical. In this research project, we focus on symbolic methods which are mainly based in our case on frequent itemsets search, association rule extraction, Formal Concept Analysis (FCA) and variations such as Relational Concept Analysis (RCA) and Pattern Structures..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Renato Vimieiro - Integrante / Francisco de Assis Tenorio de Carvalho - Coordenador / Sergio Ricardo de Melo Queiroz - Integrante / Amedeo Napoli - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2011 - 2014
+Assessment of rectal and urinary toxicity from the RADAR prostate radiotherapy trial -- dosimetric constraints for novel symptom clustering, derivation of radiobiological parameters and assessment of patient localisation effects
+Descrição: Increasing prostate radiotherapy cure rates by increasing radiation dose is limited by side-effects in the rectum and bladder which can greatly decrease patient quality of life. This study will utilise detailed data, collected during a large Australasian trial, to extract information on how patterns of dose delivery influence side-effects in the bladder and rectum, including a novel definition of rectal toxicity. The result will be more effective future treatment..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Renato Vimieiro - Integrante / Pablo Moscato - Integrante / Martin Ebert - Coordenador / David Joseph - Integrante / Kerwyn Foo - Integrante / Annette Haworth - Integrante / Martin Carolan - Integrante / James Denham - Integrante.
+Financiador(es): National Health and Medical Research Council - Auxílio financeiro.
+2011 - 2011
+A clinical trial to determine value of hormone and bone mineral density therapy in patients receiving radiotherapy in early stage prostate cancer
+Descrição: Prostate cancer depends for its growth on the male hormone, testosterone, which circulates in the blood. As a result treatment which reduces testosterone level ('androgen deprivation'[AD] therapy) can produce clinically important shrinkage of prostate cancer. Each year approximately 4000 men in Australia and New Zealand develop prostate cancer which has not spread widely and which is amenable to attempted cure by surgery or radiation. Results from recent trials, including a large trial run in Australia and New Zealand by the Trans-Tasman Radiation Oncology Group (TROG) between 1996 and 2000, suggest that 6 months AD will benefit many of these men if administered in conjunction with radiotherapy.The aim of this project is to run a further trial to find out whether 12 months of AD, after radiotherapy will prevent the need for further treatment and prolong more lives than only 6 months AD. Bisphosphonate treatment also offers important benefits to prostate cancer patients because it can increase bony stregth by increasing its density and can also arrest cancerous growth in bones. A further aim of the trial therefore is to determine whether 18 months of bisphosphonate therapy (BP) will prevent bone loss (osteoporosis) caused by AD, and also further reduce the risk of secondary bone cancer developing. This trial will involve recruitment of 1000 men across Australia and New Zealand over a 5 year period. When complete the trial will determine whether further treatment can be delayed and life prolonged in up to half of all men in whom treatment presently fails. This grant will support collection of patient data and the necessary quality checks to ensure that reliable conclusions can be drawn..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Renato Vimieiro - Coordenador / Pablo Moscato - Integrante / David Joseph - Integrante / James Denham - Integrante / Michael Nowitz - Integrante / Gillian Duchesne - Integrante / Nigel Spry - Integrante / David Lamb - Integrante / John Matthews - Integrante / Sandra Turner - Integrante / Chris Atkinson - Integrante / Keen-Hun Tai - Integrante / Nirdosh Gogna - Integrante / Lizbeth Kenny - Integrante / Terry Diamond - Integrante / Richard Smart - Integrante / David Rowan - Integrante / Kevin Lynch - Integrante / Brett Delahunt - Integrante / Judy Murray - Integrante / Cate D'Este - Integrante / Patrick McElduff - Integrante / Allison Steigler - Integrante / Allison Kautto - Integrante / Jean Ball - Integrante.
+Financiador(es): National Health and Medical Research Council - Auxílio financeiro.
+Número de produções C, T & A: 1
+2010 - 2014
+Using data mining for mapping public opinion on textual media content
+Descrição: Projeto piloto conduzido de forma independente pelos pesquisadores envolvidos. O objetivo desse projeto foi o desenvolvimento de novos métodos para análise de enquadramentos em grandes conjuntos de conteúdo midiático usando técnicas de mineração de dados..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Renato Vimieiro - Coordenador / Ana Carolina Soares Costa Vimieiro - Integrante.
+
+Número de produções C, T & A: 1
+2010 - 2012
+Genes and Environment in the Risk of Early Age-Related Macular Degeneration: A Population-based Case-Control Study
+Descrição: This study will pool data from three well-conducted population-based cohorts of older persons to gain a large sample size in order to investigate the interplay of genes and environmental factors on the risk of age-related macular degeneration (AMD). The study will give insights into AMD pathogenesis, and enable potential targeting of people with AMD susceptibility genes for preventive approaches. These could ultimately reduce the burden of this blinding condition..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Renato Vimieiro - Integrante / Pablo Moscato - Coordenador / Jie Jin Wang - Integrante / John Attia - Integrante / Paul Baird - Integrante / Wayne Smith - Integrante / Robyn Guymer - Integrante.
+Financiador(es): Australian National Health and Medical Research Council - Auxílio financeiro.
+2009 - 2010
+Differential expression of genes towards pathway discovery
+Descrição: This project aims to: (a) Develop further methodology for the problem of the detection of genes that are differentially expressed in a given number of classes. It is proposed that more powerful methods can be obtained by modelling directly the gene-expression profiles rather than working with the p-values obtained by summary statistics of the differences between the classes; (b) Complete the development of user-friendly software to implement the methodology in (a) for use by biologists; (c) Continue work on the development of a fast and general method of factorisation which is based on decomposition by parts that can reduce the dimension of gene-expression data from thousands of genes to several factors. The proposed method is to be applied to data under analysis by this Program; (d) Continue with the development of powerful methods for the clustering of short time-series applicable for the clustering of gene profiles in an attempt to find genes that are co-expressed over time from data collected in time course experiments. More information: http://bioinformatics.org.au/.
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Renato Vimieiro - Integrante / Pablo Moscato - Coordenador / Regina Esther Berretta - Integrante / Geoff McLachlan - Integrante / Phoebe Chen - Integrante / Suren Rathnayake - Integrante / John Marsden - Integrante / Mateus Rocha de Paula - Integrante / Chrostoph Kutmon - Integrante.
+2003 - 2004
+Abordagem Integrada da Eficiência Energética e Energias Renovaveis, CEMIG - ANEEL - P&D 016
+Descrição: O projeto procura estudar a aplicabilidade de técnicas computacionais para a melhor representação e modelagem de sistemas de energia. Entre as técnicas utilizadas estão Redes Neurais Artificiais e Data Mining. Projeto executado pelo GREEN - Grupo de Estudos em Energia com a colaboração do GICAP - Grupo de Inteligência Computacional Aplicada..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (3) .
+
+Integrantes: Renato Vimieiro - Integrante / Luis Enrique Zárate - Integrante / Elizabeth Marques Duarte Pereira - Coordenador / João Paulo Domingos Silva - Integrante / Daniel Alencar Soares - Integrante.
+Financiador(es): Companhia Energética de Minas Gerais - Auxílio financeiro.
+
+
+Membro de corpo editorial
+2022 - Atual
+Periódico: NEUROCOMPUTING
+
+
+Revisor de periódico
+2013 - Atual
+Periódico: Expert Systems with Applications
+2013 - Atual
+Periódico: Revista de Sistemas de Informação da FSMA
+2014 - Atual
+Periódico: Neuroscience
+2016 - Atual
+Periódico: Bioinformatics (Oxford. Print)
+2022 - Atual
+Periódico: NEUROCOMPUTING
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Mineração de Dados.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Bioinformática.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Análise Formal de Conceitos.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+
+
+Prêmios e títulos
+2020
+Latin America Research Awards, Google.
+2013
+Highly Commended Award (orientador), The University of Newcastle Work Integrated Learning Student & Staff Awards.
+2012
+Best presentation in Computer Science and Software Engineering, The University of Newcastle.
+2009
+International Postgraduate Research Scholarship, The University of Newcastle.
+2009
+Postgraduate Research Scholarship Central, The University of Newcastle.
+2006
+Bolsa - International Summer School on Knowledge Structures, International Center for Computational Logic - TU Dresden (Alemanha).
+2005
+Bolsa de mestrado, Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
+
+
+Produções
+
+Produção bibliográfica
+Citações
+
+Web of Science
+Total de trabalhos:35Total de citações:39Fator H:4
+Vimieiro, Renato  Data: 18/01/2017
+
+SCOPUS
+Total de trabalhos:20Total de citações:54
+Vimieiro, R  Data: 18/01/2017
+
+Outras
+Total de trabalhos:35Total de citações:101
+Renato Vimieiro  Data: 18/01/2017
+
+Artigos completos publicados em periódicos
+
+Ordenar por
+Ordem Cronológica
+1.
+BRUM, PEDRO ; CÂNDIDO TEIXEIRA, MATHEUS ; Vimieiro, Renato ; ARAÚJO, ERIC ; MEIRA JR, WAGNER ; LOBO PAPPA, GISELE . Political polarization on Twitter during the COVID-19 pandemic: a case study in Brazil. SOCIAL NETWORK ANALYSIS AND MINING, v. 12, p. 140, 2022.
+
+2.
+LUCAS, TARC?SIO ; SILVA, T?LIO C.P.B. ; Vimieiro, Renato ; LUDERMIR, TERESA B. . A new evolutionary algorithm for mining top- k discriminative patterns in high dimensional data. APPLIED SOFT COMPUTING, v. 59, p. 487-499, 2017.
+Citações:9
+
+3.
+MILIOLI, HELOISA H. ; Vimieiro, Renato ; TISHCHENKO, INNA ; RIVEROS, CARLOS ; BERRETTA, REGINA ; MOSCATO, PABLO . Iteratively refining breast cancer intrinsic subtypes in the METABRIC dataset. Biodata Mining, v. 9, p. 2, 2016.
+Citações:13|1
+
+4.
+MILIOLI, HELOISA HELENA ; Vimieiro, Renato ; RIVEROS, CARLOS ; TISHCHENKO, INNA ; BERRETTA, REGINA ; MOSCATO, PABLO . The Discovery of Novel Biomarkers Improves Breast Cancer Intrinsic Subtype Prediction and Reconciles the Labels in the METABRIC Data Set. Plos One, v. 10, p. e0129711, 2015.
+Citações:19|5
+
+5.
+ VIMIEIRO, RENATO; MOSCATO, PABLO . A new method for mining disjunctive emerging patterns in high-dimensional datasets using hypergraphs. Information Systems (Oxford), v. 40, p. 1-10, 2014.
+Citações:8|5
+
+6.
+AREFIN, AHMED SHAMSUL ; VIMIEIRO, RENATO ; RIVEROS, CARLOS ; CRAIG, HUGH ; MOSCATO, PABLO . An Information Theoretic Clustering Approach for Unveiling Authorship Affinities in Shakespearean Era Plays and Poems. Plos One, v. 9, p. e111445, 2014.
+Citações:12|3
+
+7.
+ VIMIEIRO, R.; MOSCATO, P. . Disclosed: An efficient depth-first, top-down algorithm for mining disjunctive closed itemsets in high-dimensional data. Information Sciences, v. 280, p. 171-187, 2014.
+Citações:14|7
+
+8.
+DENHAM, JAMES W NOWITZ, MICHAEL JOSEPH, DAVID DUCHESNE, GILLIAN SPRY, NIGEL A LAMB, DAVID S MATTHEWS, JOHN TURNER, SANDRA ATKINSON, CHRIS TAI, KEEN-HUN GOGNA, NIRDOSH KUMAR KENNY, LIZBETH DIAMOND, TERRY SMART, RICHARD ROWAN, DAVID MOSCATO, PABLO VIMIEIRO, RENATO WOODFIELD, RICHARD LYNCH, KEVIN DELAHUNT, BRETT MURRAY, JUDY D'ESTE, CATE MCELDUFF, PATRICK STEIGLER, ALLISON KAUTTO, ALLISON , et al. ; Impact of androgen suppression and zoledronic acid on bone mineral density and fractures in the trog 03·04 radar randomised controlled trial for locally advanced prostate cancer. BJU International (Print), v. ., p. n/a-n/a, 2013.
+Citações:26|8
+
+9.
+ VIMIEIRO, RENATO; MOSCATO, PABLO . Mining disjunctive minimal generators with TitanicOR. Expert Systems with Applications, v. 39, p. 8228-8238, 2012.
+Citações:6|6
+
+Capítulos de livros publicados
+1.
+RIVEROS, CARLOS ; Vimieiro, Renato ; Holliday, Elizabeth G. ; Oldmeadow, Christopher ; Wang, Jie Jin ; Mitchell, Paul ; Attia, John ; Scott, Rodney J. ; Moscato, Pablo A. . Identification of Genome-Wide SNP-SNP and SNP-Clinical Boolean Interactions in Age-Related Macular Degeneration. In: Moore, Jason H.; Williams, Scott M.. (Org.). Methods in Molecular Biology. 1ed.: Springer New York, 2015, v. 1253, p. 217-255.
+
+Trabalhos completos publicados em anais de congressos
+1.
+SOUZA, CINTHIA M. ; MEIRELES, MAGALI R. G. ; Vimieiro, Renato . A multi-view extractive text summarization approach for long scientific articles. In: 2022 International Joint Conference on Neural Networks (IJCNN), 2022, Padua. 2022 International Joint Conference on Neural Networks (IJCNN), 2022. p. 01.
+
+2.
+GONCALVES, LUIS ; Vimieiro, Renato . Approaching authorship attribution as a multi-view supervised learning task. In: 2021 International Joint Conference on Neural Networks (IJCNN), 2021, Shenzhen. 2021 International Joint Conference on Neural Networks (IJCNN), 2021. p. 1.
+
+3.
+SOUZA, C. M. ; VIMIEIRO, R. . A Long Texts Summarization Approach to Scientific Articles. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 2021, online. Anais do XIII Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana. Porto Alegre: SBC, 2021. p. 182-189.
+
+4.
+Mattos, Juliana Barcellos ; SILVA, ERAYLSON ; MATTOS NETO, PAULO ; Vimieiro, Renato . Clinical risk factors of ICU & fatal COVID-19 cases in Brazil. In: Symposium on Knowledge Discovery, Mining and Learning, 2020, Brasil. Anais do Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020), 2020. p. 33.
+
+5.
+BRUM, PEDRO V. ; TEIXEIRA, MATHEUS C. ; MIRANDA, RENATO ; Vimieiro, Renato ; MEIRA JR, WAGNER ; PAPPA, GISELE L. . A Characterization of Portuguese Tweets Regarding the Covid-19 Pandemic. In: Symposium on Knowledge Discovery, Mining and Learning, 2020, Brasil. Anais do Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020), 2020. p. 177.
+
+6.
+Mattos, Juliana Barcellos ; Silva, Eraylson G. ; MATTOS NETO, P. S. G. ; VIMIEIRO, R. . Exceptional Survival Model Mining. In: 2020 Brazilian Conference on Intelligent Systems (BRACIS), 2020, Rio Grande. Proc of the 2020 Brazilian Conference on Intelligent Systems, 2020. v. 12320. p. 307-321.
+
+7.
+DUQUE, ANDREA B. ; DE CARVALHO, FRANCISCO DE A. T. ; Vimieiro, Renato . A Multiview Clustering Approach for Mining Authorial Affinities in Literary Texts. In: 2019 8th Brazilian Conference on Intelligent Systems (BRACIS), 2019, Salvador. 2019 8th Brazilian Conference on Intelligent Systems (BRACIS), 2019. p. 818.
+
+8.
+LUCAS, TARCISIO ; GOMES, JOAO ; Vimieiro, Renato ; PRUDENCIO, RICARDO ; LUDERMIR, TERESA . A Multivariate Method for Group Profiling Using Subgroup Discovery. In: 2019 8th Brazilian Conference on Intelligent Systems (BRACIS), 2019, Salvador. 2019 8th Brazilian Conference on Intelligent Systems (BRACIS), 2019. p. 371.
+
+9.
+LUCAS, TARCSIO ; Vimieiro, Renato ; LUDERMIR, TERESA . SSDP+: A Diverse and More Informative Subgroup Discovery Approach for High Dimensional Data. In: 2018 IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. 2018 IEEE Congress on Evolutionary Computation (CEC), 2018. p. 1.
+
+10.
+DE ALBUQUERQUE TORREAO, VITOR ; Vimieiro, Renato . Effects of Population Initialization on Evolutionary Techniques for Subgroup Discovery in High Dimensional Datasets. In: 2018 7th Brazilian Conference on Intelligent Systems (BRACIS), 2018, Sao Paulo. 2018 7th Brazilian Conference on Intelligent Systems (BRACIS), 2018. p. 25.
+
+11.
+SANTOS, M. A. S. ; VIMIEIRO, R. . A quantitative comparison of exhaustive discriminative pattern mining algorithms. In: Encontro Nacional de Inteligência Artificial e Computacional, 2017, Uberlândia. Anais do 14o. Encontro Nacional de Inteligência Artificial e Computacional, 2017.
+
+12.
+PONTES, TARCISIO ; Vimieiro, Renato ; LUDERMIR, TERESA BERNARDA . SSDP: A Simple Evolutionary Approach for Top-K Discriminative Patterns in High Dimensional Databases. In: 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 2016, Recife. 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 2016. p. 361.
+
+13.
+ VIMIEIRO, R.; VIEIRA, N. J. . Uma análise de algoritmos para extração de regras de associação usando Análise Formal de Conceitos. In: III Workshop em Algoritmos e Aplicações de Mineração de Dados, 2007, João Pessoa. WAAMD2007- III Workshop em Algoritmos e Aplicações de Mineração de Dados, 2007. p. 31-38.
+
+14.
+ZARATE, L. ; SONG, M. ; ALVAREZ, A. ; SOARES, B. ; NOGUEIRA, B. ; VIMIEIRO, R. ; DIAS, S. ; SANTOS, T. ; VIEIRA, N. . An Approach to Knowledge Extraction From ANN Through Formal Concept Analysis Computational Tool Proposal: SOPHIANN. In: 2006 IEEE International Symposium on Industrial Electronics, 2006, Montreal. 2006 IEEE International Symposium on Industrial Electronics, 2006. v. 1. p. 43-48.
+
+15.
+ZARATE, L. ; VIMIEIRO, R. ; VIEIRA, N. . Reasoning Based on Rules Extracted from Trained Neural Networks via Formal Concept Analysis. In: 2006 IEEE International Conference on Engineering of Intelligent Systems, 2006, Islamabad. 2006 IEEE International Conference on Engineering of Intelligent Systems. p. 1-6.
+
+16.
+VIMIEIRO, R.; ZARATE, L.E. ; PEREIRA, E.M.D. ; DINIZ, A.S.C. . Reduction of the entries number of the training set for ANN through formal concept analysis and its application to solar energy systems. In: Proceedings of the 2005 IEEE MidnightSummer Workshop on Soft Computing in Industrial Applications, 2005. SMCia/05., 2005, Espoo. Proceedings of the 2005 IEEE Midnight-Summer Workshop on Soft Computing in Industrial Applications, 2005. SMCia/05.. p. 154-159.
+
+17.
+VIMIEIRO, R.; ZARATE, L.E. ; PEREIRA, E.M.D. ; VIEIRA, N.J. . Using the nextclosure algorithm to extract rules from trained neural networks - application in solar energy systems. In: Proceedings of the 2005 IEEE MidnightSummer Workshop on Soft Computing in Industrial Applications, 2005. SMCia/05., 2005, Espoo. Proceedings of the 2005 IEEE Midnight-Summer Workshop on Soft Computing in Industrial Applications, 2005. SMCia/05.. p. 184-189.
+
+18.
+PEREIRA, E. M. D. ; ZARATE, L. E. ; VIMIEIRO, R. ; DINIZ, A. S. C. . Representation of solar collectors via neural networks with reduction of the training set number. In: 18th International Congress of Mechanical Engineering (COBEM), 2005, Ouro Preto. Proceedings of COBEM 2005, 2005.
+
+19.
+ZARATE, L. E. ; PEREIRA, E. M. D. ; VIMIEIRO, R. ; SILVA, J. P. D. ; DINIZ, A. S. C. . Neural Representation of a Solar Collector with Statistical Optimization of The Training Sets. In: IEA/AIE, ACM 17th International Conference on Industrial & Engineering Applications of Artificial Intelligence & Expert Systems, 2004, Ottawa. Lecture Notes in Computer Science (LNCS), 2004. v. 3029. p. 87-96.
+
+20.
+ZARATE, L. E. ; PEREIRA, E. M. D. ; VIMIEIRO, R. ; SILVA, J. P. D. ; SOARES, D. A. ; DINIZ, A. S. C. . Optimization of Neural Networks Training Sets Via Clustering: Applications in Solar Colector Represntation. In: ICEIS/2004, ACM, AAAI, 6th International Conference on Enterprise Information Systems, 2004, Porto. Proceedings of the 6th International Conference on Enterprise Information Systems, 2004.
+
+21.
+MACHADO NETO, L. V. B. ; ZARATE, L. E. ; SOARES, D. A. ; VIMIEIRO, R. ; DINIZ, A. S. C. . Representation of Curves Current-Voltage of Photovoltaic Modules via Artificial Neural Network. In: Eighth IASTED International Conference on Artificial Intelligence and Soft Computing, 2004, Marbella. Proceedings of Eighth IASTED International Conference on Artificial Intelligence and Soft Computing. Calgary: ACTA Press, 2004. p. 266-271.
+
+22.
+ZARATE, L. E. ; PEREIRA, E. M. D. ; VIMIEIRO, R. ; SOARES, D. A. ; DINIZ, A. S. C. . Sensitivity Analysis Obtained Through Artificial Neural Networks - Application in Solar Energy Systems. In: 8th IASTED Conference on Artificial Intelligence and Soft Computing, 2004, Marbella. Proceedings of the Eighth IASTED Conference on Artificial Intelligence and Soft Computing. Calgary: ACTA Press, 2004. p. 289-293.
+
+23.
+ VIMIEIRO, R.; ZARATE, L. E. ; SILVA, J. P. D. ; PEREIRA, E. M. D. ; DINIZ, A. S. C. . Rule Extraction from Trained Neural Networks via Formal Concept Analysis. In: 8th IASTED Conference on Artificial Intelligence and Soft Computing, 2004, Marbella. Proceedings of the Eighth IASTED Conference on Artificial Intelligence and Soft Computing. Calgary: ACTA Press, 2004. p. 334-339.
+
+24.
+ZARATE, L. E. ; PEREIRA, E. M. D. ; VIMIEIRO, R. ; SILVA, J. P. D. ; PIRES, S. ; DINIZ, A. S. C. . Representation of a Solar Collector via Artificial Neural Networks. In: IASTED Conference on Artificial Intelligence and Applications, 2003, Benalmádena. Artificial Intelligence and Applications. Zurich: ACTA Press, 2003. p. 517-522.
+
+Resumos publicados em anais de congressos
+1.
+MILIOLI, H. H. Z. ; VIMIEIRO, RENATO ; RIVEROS, C. ; BERRETTA, R. E. ; SAKOFF, J. ; MOSCATO, P. . Breast Cancer Subtypes Individuation Driving Novel Drug Targets For Tailored Therapies. In: Translational Cancer Research Conference, 2013, Newcastle, NSW, Austrália. Translational Cancer Research Conference, 2013.
+
+2.
+VIMIEIRO, A. C. S. C. ; VIMIEIRO, RENATO . Manual and automatic media frame analysis: a mixed-method proposal for analyzing large corpora. In: RC33 Eighth International Conference on Social Science Methodology, 2012, Sidney, NSW. Archives of RC33 Eighth International Conference on Social Science Methodology, 2012.
+
+Apresentações de Trabalho
+1.
+VIMIEIRO, RENATO; RIVEROS, C. ; MOSCATO, P. . A new method for mining contrast patterns in age-related macular degeneration. 2012. (Apresentação de Trabalho/Congresso).
+
+2.
+VIMIEIRO, R.. Frequent itemset mining. 2009. (Apresentação de Trabalho/Seminário).
+
+3.
+VIMIEIRO, R.; ZARATE, L. E. ; SILVA, J. P. D. ; PEREIRA, E. M. D. ; DINIZ, A. S. C. . Rule Extraction from Trained Neural Networks via Formal Concept Analysis - 8th IASTED/ASC. 2004. (Apresentação de Trabalho/Conferência ou palestra).
+
+4.
+MACHADO NETO, L. V. B. ; ZARATE, L. E. ; SOARES, D. A. ; VIMIEIRO, R. ; DINIZ, A. S. C. . Representation of Curves Current-Voltage of Photovoltaic Modules via Artificial Neural Network - 8th IASTED/ASC. 2004. (Apresentação de Trabalho/Conferência ou palestra).
+
+5.
+ZARATE, L. E. ; PEREIRA, E. M. D. ; VIMIEIRO, R. ; SOARES, D. A. ; DINIZ, A. S. C. . Sensitivity Analysis Obtained Through Artificial Neural Networks - Application in Solar Energy Systems. 2004. (Apresentação de Trabalho/Conferência ou palestra).
+
+
+Demais tipos de produção técnica
+1.
+VIMIEIRO, R.; MOSCATO, P. . Mining disjunctive itemsets with Titanic. 2009. (Relatório de pesquisa).
+
+2.
+VIMIEIRO, R.. Moderador de sessão técnica - Knowledge Representation and Reasoning II, In: Eighth IASTED Conference on Artificial Intelligence and Soft Computing. 2004. (Moderador de seção técnica).
+
+3.
+VIMIEIRO, R.; SILVA, J. P. D. ; ZARATE, L. E. . Modelagem de Coletores Solares via Redes Neurais Artificiais. 2003. (Relatório de pesquisa).
+
+Demais trabalhos
+1.
+ZARATE, L. E. ; PEREIRA, E. M. D. ; VIMIEIRO, R. ; SILVA, J. P. D. ; SOARES, D. A. ; DINIZ, A. S. C. . Abordagem Integrada da Eficiência Energética e Energias Renovaveis, CEMIG - ANEEL - P&D 016. 2003 (Pesquisa) .
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+1.
+VIMIEIRO, R.. Participação em banca de Rodrigo Ludermir de Oliveira. Detecção de Posicionamento em Tweets sobre Covid-19 no Brasil. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+2.
+LUDERMIR, T. B.; PAPPA, GISELE L.; VIMIEIRO, R.. Participação em banca de Juliana Barcellos Mattos. A SUPERVISED DESCRIPTIVE LOCAL PATTERN MINING APPROACH TO THE DISCOVERY OF SUBGROUPS WITH EXCEPTIONAL SURVIVAL BEHAVIOUR. 2021. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+3.
+VIMIEIRO, R.. Participação em banca de Bernardo de Almeida Abreu. Complete computation in subquadratic time of a new generic type of bicluster in dense and sparse matrices. 2021. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais.
+
+4.
+VIMIEIRO, R.. Participação em banca de Felipe Casadei Mendes. A new multi-objective approach for solving the Symbolic Regression problem. 2020. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais.
+
+5.
+BRANDAO, M. A.; Vimieiro, Renato; LACERDA, A. M.; MORO, M. M.. Participação em banca de Mariana de Oliveira Santos Silva. COLLABORATION-AWARE HIT SONG ANALYSIS AND PREDICTION. 2020. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais.
+
+6.
+CAVALCANTI, G. D. C.; LACERDA, A. M.; VIMIEIRO, R.. Participação em banca de Luís Fred Gonçalves de Sousa. Uso de Aprendizado Supervisionado Multivisão para Atribuição Automática de Autoria de Textos. 2020. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+7.
+VIMIEIRO, R.; ZARATE, L. E.; MISSAOUI, R.; SONG, M. A. J.. Participação em banca de Kaio Henrique Andrade Ananias. An Approach Based on Concept Approximation to Search Triadic Concepts. 2020. Dissertação (Mestrado em Informática) - Pontifícia Universidade Católica de Minas Gerais.
+
+8.
+CAVALCANTI, G. D. C.; MIRANDA, P. B. C.; VIMIEIRO, R.. Participação em banca de Vítor de Albuquerque Torreão. The population initialization affects the performance of subgroup discovery evolutionary algorithms in high dimensional datasets. 2019. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+9.
+BARBOSA, L. A.; VIMIEIRO, R.; REN, T. I.. Participação em banca de David Wilson de Farias Santos. Predição de popularidade em mídia social utilizando rede de atenção hierárquica. 2019. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+10.
+MATTOS NETO, P. S. G.; COUCEIRO, M.; VIMIEIRO, R.. Participação em banca de Avyner Henrique Bezerra da Fonseca Lucena. Investigação do uso de computação evolucionária para descoberta de subgrupos em conjuntos de dados numéricos de alta dimensionalidade. 2019. Dissertação (Mestrado em Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+Teses de doutorado
+1.
+VIMIEIRO, R.. Participação em banca de Amir Jalilifard. MODELING PHARMACOLOGICAL EFFECTS THROUGH MULTI GRAPH AND MULTI-RELATION GRAPH EMBEDDING. 2023. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Minas Gerais.
+
+2.
+VIMIEIRO, R.. Participação em banca de Tiago Amador Coelho. Regularização de Modelos para Predição Precoce: Um Estudo na predição de Complicações na UTI. 2022. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Minas Gerais.
+
+3.
+VIMIEIRO, R.. Participação em banca de Rogério César Peixoto Fragoso. Clustering-based Dynamic Ensemble Selection for One-Class Decomposition. 2022. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+4.
+VIMIEIRO, R.. Participação em banca de Pedro Henrique Batista Ruas da Silveira. Pattern Discovery and Exploration in Triadic Concept Analysis. 2021. Tese (Doutorado em Informática) - Pontifícia Universidade Católica de Minas Gerais.
+
+5.
+VIMIEIRO, R.. Participação em banca de Alex Guimarães Cardoso de Sá. Automated Multi-Label Classification: Methods, Issues and Prospects. 2019. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação - UFMG) - Universidade Federal de Minas Gerais.
+
+6.
+Prudêncio R. B. C.; VIMIEIRO, R.; BARBOSA, L. A.; Santos E. M.; MELLO, R. F. L.. Participação em banca de Roberto Hugo Wanderley Pinheiro. Combinação de classificadores em diferentes espaços de características para classificação de documentos. 2017. Tese (Doutorado em Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+7.
+SOUZA, R. M. C. R.; VIMIEIRO, R.; MATTOS NETO, P. S. G.; WALTER, M. E. T.; ALBUQUERQUE, J. O.. Participação em banca de Flávia Roberta Barbosa de Araújo. Inferência de polimorfismos de nucleotídeo único utilizando algoritmos baseados em relevance learning vector quantization. 2017. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+8.
+Zanchettin C.; Silva, R. M. A.; VIMIEIRO, R.; RIBEIRO C. H. C.; Costa, E. B.. Participação em banca de Maria Aparecida Amorim Sibaldo de Carvalho. Recomendação baseada em Modularidade. 2016. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+9.
+Prudêncio R. B. C.; Zanchettin C.; VIMIEIRO, R.; Minku L.; CORREA, R. F.. Participação em banca de Luciano Demétrio Santos Pacífico. Algoritmos de Agrupamento Particionais Baseados na Meta-heurística de Otimização por Busca em Grupo. 2016. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+Qualificações de Doutorado
+1.
+VIMIEIRO, R.. Participação em banca de Renato Miranda Filho. Explaining Regression Models Predictions. 2021. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Minas Gerais.
+
+2.
+VIMIEIRO, R.. Participação em banca de Tiago Amador Coelho. Identificação prévia de pacientes na UTI com risco de complicações: regularização baseada na robustez e estabilidade da explicação. 2021. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Minas Gerais.
+
+3.
+VELOSO, A. A.; MARINHO, L. B.; RUIZ, D. D. A.; SANTOS, M. A.; VIMIEIRO, R.. Participação em banca de Amir Jalilifard. Modeling pharmacological effects with multi graph and multi-relation graph embedding. 2020. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Minas Gerais.
+
+4.
+OLIVEIRA, A. L. I.; MIRANDA, P. B. C.; VIMIEIRO, R.. Participação em banca de Rogério César Peixoto Fragoso. Clustering-Based Dynamic Ensemble Selection for One-Class Decomposition. 2019. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+5.
+BARBOSA, L. A.; RIBEIRO C. H. C.; VIMIEIRO, R.. Participação em banca de Caio César Sabino Silva. Predicting Sequences of Visit Based on Routine Discovery. 2018. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+6.
+Prudêncio R. B. C.; L. E. S Oliveira; VIMIEIRO, R.. Participação em banca de Dayvid Victor Rodrigues de Oliveira. A dynamic classifier ensemble selection framework robust to class imbalance and noise. 2016. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+7.
+P. G. S. Fonseca; A. Benko-Iseppon; VIMIEIRO, R.. Participação em banca de Flávia Roberta Barbosa de Araújo. Inferência de interações epistáticas em dados de polimorfismo. 2016. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+8.
+CAVALCANTI, G. D. C.; VIMIEIRO, R.; CARVALHO, A. C. P. L. F.. Participação em banca de Danilo Carlos Gouveia de Lucena. Algoritmos para transferência de aprendizado em contextos semi-supervisionados. 2016. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+9.
+Prudêncio R. B. C.; Santos E. M.; VIMIEIRO, R.. Participação em banca de Roberto Hugo Wanderley Pinheiro. Classificação de Documentos Usando Combinação de Classificadores em Espaços de Dissimilaridade. 2015. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+10.
+Zanchettin C.; Minku L.; VIMIEIRO, R.. Participação em banca de Luciano Demetrio Santos Pacifico. Algoritmos Meméticos de Inteligência de Enxames para Análise de Agrupamentos. 2015. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+11.
+VIMIEIRO, R.; RIBEIRO C. H. C.; STOSIC, B.. Participação em banca de Maria Aparecida Amorim Sibaldo de Carvalho. Recomendação baseada em Modularidade. 2015. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+Trabalhos de conclusão de curso de graduação
+1.
+VIMIEIRO, R.; Prudêncio R. B. C.. Participação em banca de Gedson Santos de Melo.Aplicação de Aprendizado de Máquina para Previsão de Fluxo de Caixa em ATMs. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal de Pernambuco.
+
+2.
+A. R. FONSECA; VIMIEIRO, R.. Participação em banca de Diego Magno Gomes.Ferramenta Web para busca em mapas. 2008. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Centro Universitário de Belo Horizonte.
+
+3.
+Silva, L. L. da; VIMIEIRO, R.; SANTOS JUNIOR, T. J.. Participação em banca de Luiz Fernando Maciel França.Estudo de uma proposta de Migração do ERP/SIG da plataforma COBOL para uma solução em ambiente Web. 2007. Trabalho de Conclusão de Curso (Graduação em Gestão da Tecnologia da Informação) - Centro Universitário de Belo Horizonte.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+1.
+MORO, M. M.; HORA, A. C.; PEREIRA, A. C. M.; LACERDA, A. M.; PAPPA, G. L.; VIEIRA, L. F. M.; VIMIEIRO, R.; SANTOS, R. L. T.; SANTOS, V. F.. Processo de Seleção para a Contratação de Professor Substituto. 2019. Universidade Federal de Minas Gerais.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+2016 5th Brazilian Conference on Intelligent Systems (BRACIS). SSDP: A Simple Evolutionary Approach for Top-K Discriminative Patterns in High Dimensional Databases. 2016. (Congresso).
+
+2.
+Congresso da Sociedade Brasileira de Computação. 2015. (Congresso).
+
+3.
+2nd Biomarker Discovery Conference. A new method for mining contrast patterns in age-related macular degeneration. 2012. (Congresso).
+
+4.
+10th IEEE International Conference in Data Mining (ICDM). 2010. (Congresso).
+
+5.
+Eighth IASTED Conference on Artificial Intelligence and Soft Computing. Eighth IASTED Conference on Artificial Intelligence and Soft Computing. 2004. (Congresso).
+
+6.
+Simpósio Brasileiro de Linguagens de Programação.Simpósio Brasileiro de Linguagens de Programação. 2003. (Simpósio).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+VIMIEIRO, R.. Comitê de programa da International Joint Conference on Neural Networks 2023. 2023. (Congresso).
+
+2.
+VIMIEIRO, R.. Comitê de programa 10th Workshop on "What FCA can do for AI?". 2022. (Congresso).
+
+3.
+VIMIEIRO, R.. Comitê de programa do 18 Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2021). 2021. (Congresso).
+
+4.
+VIMIEIRO, R.. Comitê de programa 9th Workshop on "What FCA can do for AI?". 2021. (Congresso).
+
+5.
+VIMIEIRO, R.. (Comitê de programa) 8th Workshop 'What can FCA do for Artificial Intelligence?'. 2020. (Congresso).
+
+6.
+VIMIEIRO, R.. Comitê de Programa do 5th International Workshop on "What Can FCA do for AI?" (FCA4AI/ECAI 2016). 2016. (Congresso).
+
+7.
+VIMIEIRO, R.. 4th Symposium on Knowledge Discovery, Mining and Learning (KDMiLe). 2016. (Congresso).
+
+8.
+VIMIEIRO, R.. Congresso da Sociedade Brasileira de Computação. 2015. (Congresso).
+
+9.
+VIMIEIRO, R.. Comitê de Programa do 4th International Workshop on "What Can FCA do for AI?" (FCA4AI/IJCAI 2015). 2015. (Congresso).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+1.
+Ramon Griffo Costa. Métodos de aprendizado de máquina para análise de sobrevivência. Início: 2023. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais. (Orientador).
+
+2.
+Paulo Henrique de Souza Coelho. Classificação de doenças cardíacas usando grafos. Início: 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Orientador).
+
+3.
+Samir Tuffi Saliba Junior. Explicação de modelos de classificação baseados em grafos para doenças cardíacas. Início: 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais. (Orientador).
+
+4.
+Daniel de Moura e Almeida. A definir. Início: 2021. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais. (Orientador).
+
+5.
+Leonardo Santos Miranda. A definir. Início: 2020. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais. (Orientador).
+
+Iniciação científica
+1.
+Luis Felipe Ramos Ferreira. Classificação de doenças cardíacas usando eletrocardiogramas e grafos. Início: 2022. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal de Minas Gerais. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+1.
+Cinthia Mikaela de Souza. Proposta de uma abordagem para sumarização extrativa de textos científicos longos. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Minas Gerais, . Orientador: Renato Vimieiro.
+
+2.
+Juliana Barcellos Mattos. A Supervised Descriptive Local Pattern Mining Approach to the Discovery of Subgroups With Exceptional Survival Behaviour. 2021. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Renato Vimieiro.
+
+3.
+Luís Fred Gonçalves de Souza. Uso de Aprendizado Supervisionado Multivisão para Atribuição Automática de Autoria de Textos. 2020. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Renato Vimieiro.
+
+4.
+Avyner Henrique B. da Fonseca Lucena. Investigação do uso de computação evolucionária para descoberta de subgrupos em conjuntos de dados numéricos de alta dimensionalidade. 2019. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Renato Vimieiro.
+
+5.
+Vítor de Albuquerque Torreão. The population initialization affects the performance of subgroup discovery evolutionary algorithms in high dimensional datasets. 2019. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, . Orientador: Renato Vimieiro.
+
+6.
+Maurício Aldenor Souza dos Santos. Comparação dos métodos de mineração de padrões discriminativos para bases de dados biomédicas. 2017. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco, . Orientador: Renato Vimieiro.
+
+Tese de doutorado
+1.
+Tarcísio Daniel Pontes Lucas. Mineração de subgrupos em bases de dados de alta dimensionalidade. 2019. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Coorientador: Renato Vimieiro.
+
+Trabalho de conclusão de curso de graduação
+1.
+Marcelo Nunes da Silva. Adição de Busca Local (Hill-Climb) no Algoritmo SSDP para Subgroup Discovery. 2020. Trabalho de Conclusão de Curso. (Graduação em Sistemas de Informação) - Universidade Federal de Minas Gerais. Orientador: Renato Vimieiro.
+
+2.
+Pedro Thomas Pereira Antunes. Identificação de autoria e classificação de textos usando redes convolucionais em grafos. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal de Minas Gerais. Orientador: Renato Vimieiro.
+
+3.
+Marcelo Nunes da Silva. Análise Quantitativa de Modificações Propostas nos Algoritmos do Estado da Arte em Subgroup Discovery. 2019. Trabalho de Conclusão de Curso. (Graduação em Sistemas de Informação) - Universidade Federal de Minas Gerais. Orientador: Renato Vimieiro.
+
+4.
+Angelo de Santana Santos Dias. Caracterização de comunidades científicas usando subgroup discovery. 2018. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. Orientador: Renato Vimieiro.
+
+5.
+Andréa Brandão Duque. An Unsupervised Multi-view Approach for Authorship Attribution of Early Modern Plays. 2017. Trabalho de Conclusão de Curso. (Graduação em Engenharia da Computação) - Universidade Federal de Pernambuco. Orientador: Renato Vimieiro.
+
+6.
+Túlio Cesar Pontes Barros e Silva. Análise da eficiência de algoritmos para mineração de padrões discriminativos em bases de alta dimensionalidade. 2016. Trabalho de Conclusão de Curso. (Graduação em Engenharia da Computação) - Universidade Federal de Pernambuco. Orientador: Renato Vimieiro.
+
+7.
+José Lídio de Oliveira Júnior. Análise do perfil de alunos de uma escola de ensino médio utilizando técnicas de mineração de dados. 2008. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Centro Universitário de Belo Horizonte. Orientador: Renato Vimieiro.
+
+Iniciação científica
+1.
+Aileen Pohl. Optimisation, bioinformatics and data mining: developing a Weka plugin for CM1 scores. 2013. Iniciação Científica - University of Newcastle. Orientador: Renato Vimieiro.
+
+
+
+Inovação
+
+Projetos de pesquisa
+2011 - 2014
+Assessment of rectal and urinary toxicity from the RADAR prostate radiotherapy trial -- dosimetric constraints for novel symptom clustering, derivation of radiobiological parameters and assessment of patient localisation effects
+Descrição: Increasing prostate radiotherapy cure rates by increasing radiation dose is limited by side-effects in the rectum and bladder which can greatly decrease patient quality of life. This study will utilise detailed data, collected during a large Australasian trial, to extract information on how patterns of dose delivery influence side-effects in the bladder and rectum, including a novel definition of rectal toxicity. The result will be more effective future treatment..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Renato Vimieiro - Integrante / Pablo Moscato - Integrante / Martin Ebert - Coordenador / David Joseph - Integrante / Kerwyn Foo - Integrante / Annette Haworth - Integrante / Martin Carolan - Integrante / James Denham - Integrante.
+Financiador(es): National Health and Medical Research Council - Auxílio financeiro.
+2011 - 2011
+A clinical trial to determine value of hormone and bone mineral density therapy in patients receiving radiotherapy in early stage prostate cancer
+Descrição: Prostate cancer depends for its growth on the male hormone, testosterone, which circulates in the blood. As a result treatment which reduces testosterone level ('androgen deprivation'[AD] therapy) can produce clinically important shrinkage of prostate cancer. Each year approximately 4000 men in Australia and New Zealand develop prostate cancer which has not spread widely and which is amenable to attempted cure by surgery or radiation. Results from recent trials, including a large trial run in Australia and New Zealand by the Trans-Tasman Radiation Oncology Group (TROG) between 1996 and 2000, suggest that 6 months AD will benefit many of these men if administered in conjunction with radiotherapy.The aim of this project is to run a further trial to find out whether 12 months of AD, after radiotherapy will prevent the need for further treatment and prolong more lives than only 6 months AD. Bisphosphonate treatment also offers important benefits to prostate cancer patients because it can increase bony stregth by increasing its density and can also arrest cancerous growth in bones. A further aim of the trial therefore is to determine whether 18 months of bisphosphonate therapy (BP) will prevent bone loss (osteoporosis) caused by AD, and also further reduce the risk of secondary bone cancer developing. This trial will involve recruitment of 1000 men across Australia and New Zealand over a 5 year period. When complete the trial will determine whether further treatment can be delayed and life prolonged in up to half of all men in whom treatment presently fails. This grant will support collection of patient data and the necessary quality checks to ensure that reliable conclusions can be drawn..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Renato Vimieiro - Coordenador / Pablo Moscato - Integrante / David Joseph - Integrante / James Denham - Integrante / Michael Nowitz - Integrante / Gillian Duchesne - Integrante / Nigel Spry - Integrante / David Lamb - Integrante / John Matthews - Integrante / Sandra Turner - Integrante / Chris Atkinson - Integrante / Keen-Hun Tai - Integrante / Nirdosh Gogna - Integrante / Lizbeth Kenny - Integrante / Terry Diamond - Integrante / Richard Smart - Integrante / David Rowan - Integrante / Kevin Lynch - Integrante / Brett Delahunt - Integrante / Judy Murray - Integrante / Cate D'Este - Integrante / Patrick McElduff - Integrante / Allison Steigler - Integrante / Allison Kautto - Integrante / Jean Ball - Integrante.
+Financiador(es): National Health and Medical Research Council - Auxílio financeiro.
+Número de produções C, T & A: 1
+
+
+
+Educação e Popularização de C & T
+
+Organização de eventos, congressos, exposições e feiras
+1.
+VIMIEIRO, R.. (Comitê de programa) 8th Workshop 'What can FCA do for Artificial Intelligence?'. 2020. (Congresso).
