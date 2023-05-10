@@ -1,10 +1,10 @@
 import sys
 
 class TreeNode:
-    def __init__(self, value = 0, prefix = '', filhos = []):
+    def __init__(self, value = 0, prefix = '', sons = []):
         self.value = value
         self.prefix = prefix
-        self.filhos = filhos
+        self.sons = sons
 
 class TrieTree:
     def __init__(self):
@@ -15,7 +15,7 @@ class TrieTree:
         currentNode = self.root
         for x in s:
             wasFound = False
-            for y in currentNode.filhos:
+            for y in currentNode.sons:
                 if x == y.prefix:
                     currentNode = y
                     wasFound = True
@@ -23,7 +23,7 @@ class TrieTree:
             if wasFound == False:
                 newNode = TreeNode(self.num, x, [])
                 self.num += 1
-                currentNode.filhos.append(newNode)
+                currentNode.sons.append(newNode)
                 currentNode = self.root
         numBPI = (self.num.bit_length() + 7) // 8
         if numBPI > 100:
@@ -39,7 +39,7 @@ class TrieTree:
         for i in range(0,len(s)):
             wasFound = False
             #print(currentNode.prefix)
-            for y in currentNode.filhos:
+            for y in currentNode.sons:
                 if s[i] == y.prefix:
                     currentNode = y
                     wasFound = True
@@ -50,7 +50,7 @@ class TrieTree:
             if wasFound == False:
                 newNode = TreeNode(self.num, s[i], [])
                 self.num += 1
-                currentNode.filhos.append(newNode)
+                currentNode.sons.append(newNode)
                 k = currentNode.value
                 file.write(k.to_bytes(numBPI, byteorder='big', signed=False))
                 file.write(s[i].encode('utf8', 'strict'))
@@ -90,8 +90,8 @@ class TrieTree:
             
                 
     def printTree(self, currentNode):
-        print(currentNode.value, currentNode.prefix, len(currentNode.filhos))
-        for x in currentNode.filhos:
+        print(currentNode.value, currentNode.prefix, len(currentNode.sons))
+        for x in currentNode.sons:
             print(x.value, "is son of ", currentNode.value)
             self.printTree(x)
         return
